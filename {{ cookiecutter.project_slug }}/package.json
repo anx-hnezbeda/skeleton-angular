@@ -45,7 +45,7 @@
     "@uirouter/angular": "8.0.1",
     "@uirouter/core": "^6.0.7",
     "@uirouter/rx": "^0.6.5",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.2",
     "core-js": "^3.9.1",
     "date-fns": "^2.19.0",
     "lodash": "^4.17.21",
