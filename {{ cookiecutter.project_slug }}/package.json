@@ -72,7 +72,7 @@
     "babel-loader": "^8.2.2",
     "codelyzer": "~6.0.1",
     "core-js": "^3.9.1",
-    "css-loader": "5.2.4",
+    "css-loader": "6.2.0",
     "git-describe": "^4.0.4",
     "jasmine-core": "3.7.1",
     "jasmine-spec-reporter": "7.0.0",
